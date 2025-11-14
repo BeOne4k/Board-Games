@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\desktop\\board games\\board games\\services\\user service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|solutionrelative:board games\\services\\user service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\desktop\\board games\\board games\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|solutionrelative:board games\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\desktop\\board games\\board games\\services\\user service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|solutionrelative:board games\\services\\user service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\desktop\\board games\\board games\\services\\user service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|solutionrelative:board games\\services\\user service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\desktop\\board games\\board games\\board games.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -59,8 +63,8 @@
       "RelativeMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|solutionrelative:board games\\dto\u0027s\\usersdto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Migrations\\20251114064433_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Board Games\\Migrations\\20251114064433_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\desktop\\board games\\board games\\migrations\\20251114064433_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FBAEBB-DFDD-4DFE-8093-2A4E83BF890C}|Board Games\\Board Games.csproj|solutionrelative:board games\\migrations\\20251114064433_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,46 +74,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Board Games",
-              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Board Games.csproj",
-              "RelativeDocumentMoniker": "Board Games\\Board Games.csproj",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Board Games.csproj*",
-              "RelativeToolTip": "Board Games\\Board Games.csproj*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T07:45:47.804Z",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Board Games\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "Board Games\\Controllers\\UsersController.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwFUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:13:40.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Board Games.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Board Games.csproj",
+              "RelativeDocumentMoniker": "Board Games\\Board Games.csproj",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Board Games.csproj",
+              "RelativeToolTip": "Board Games\\Board Games.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T07:45:47.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserConfig.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Data\\Configs\\UserConfig.cs",
               "RelativeDocumentMoniker": "Board Games\\Data\\Configs\\UserConfig.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Data\\Configs\\UserConfig.cs*",
-              "RelativeToolTip": "Board Games\\Data\\Configs\\UserConfig.cs*",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Data\\Configs\\UserConfig.cs",
+              "RelativeToolTip": "Board Games\\Data\\Configs\\UserConfig.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:17:58.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T07:17:58.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Services\\User Service\\UserService.cs",
               "RelativeDocumentMoniker": "Board Games\\Services\\User Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Services\\User Service\\UserService.cs*",
-              "RelativeToolTip": "Board Games\\Services\\User Service\\UserService.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDoAAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Services\\User Service\\UserService.cs",
+              "RelativeToolTip": "Board Games\\Services\\User Service\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:13:50.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T07:13:50.842Z"
             },
             {
               "$type": "Document",
@@ -117,81 +131,76 @@
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Services\\User Service\\IUserService.cs",
               "RelativeDocumentMoniker": "Board Games\\Services\\User Service\\IUserService.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Services\\User Service\\IUserService.cs*",
-              "RelativeToolTip": "Board Games\\Services\\User Service\\IUserService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Services\\User Service\\IUserService.cs",
+              "RelativeToolTip": "Board Games\\Services\\User Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T07:08:36.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EfRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Repos\\EfRepository.cs",
               "RelativeDocumentMoniker": "Board Games\\Repos\\EfRepository.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Repos\\EfRepository.cs*",
-              "RelativeToolTip": "Board Games\\Repos\\EfRepository.cs*",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Repos\\EfRepository.cs",
+              "RelativeToolTip": "Board Games\\Repos\\EfRepository.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:57:11.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:57:11.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IEfRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Repos\\IEfRepository.cs",
               "RelativeDocumentMoniker": "Board Games\\Repos\\IEfRepository.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Repos\\IEfRepository.cs*",
-              "RelativeToolTip": "Board Games\\Repos\\IEfRepository.cs*",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Repos\\IEfRepository.cs",
+              "RelativeToolTip": "Board Games\\Repos\\IEfRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:53:41.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Profiles\\UserProfile.cs",
-              "RelativeDocumentMoniker": "Board Games\\Profiles\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Profiles\\UserProfile.cs*",
-              "RelativeToolTip": "Board Games\\Profiles\\UserProfile.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:49:19.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserResponceDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs",
-              "RelativeDocumentMoniker": "Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs*",
-              "RelativeToolTip": "Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:48:38.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:53:41.654Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UserUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs",
-              "RelativeDocumentMoniker": "Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs*",
-              "RelativeToolTip": "Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Board Games\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "Board Games\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:48:19.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:49:19.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "UserResponceDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs",
+              "RelativeDocumentMoniker": "Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs",
+              "RelativeToolTip": "Board Games\\DTO\u0027s\\UsersDto\\UserResponceDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:48:38.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs",
+              "RelativeToolTip": "Board Games\\DTO\u0027s\\UsersDto\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:48:19.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Board Games\\Entities\\User.cs",
@@ -199,12 +208,11 @@
               "RelativeToolTip": "Board Games\\Entities\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:34:53.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:34:53.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Board Games\\Data\\AppDbContext.cs",
@@ -212,38 +220,35 @@
               "RelativeToolTip": "Board Games\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:29:28.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:29:28.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Program.cs",
               "RelativeDocumentMoniker": "Board Games\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Program.cs*",
-              "RelativeToolTip": "Board Games\\Program.cs*",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Program.cs",
+              "RelativeToolTip": "Board Games\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:13:56.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs",
-              "RelativeDocumentMoniker": "Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs*",
-              "RelativeToolTip": "Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:47:20.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:13:56.039Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs",
+              "RelativeToolTip": "Board Games\\DTO\u0027s\\UsersDto\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:47:20.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "20251114064433_init.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Migrations\\20251114064433_init.cs",
               "RelativeDocumentMoniker": "Board Games\\Migrations\\20251114064433_init.cs",
@@ -251,12 +256,11 @@
               "RelativeToolTip": "Board Games\\Migrations\\20251114064433_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T06:44:33.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:44:33.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\appsettings.json",
               "RelativeDocumentMoniker": "Board Games\\appsettings.json",
@@ -264,8 +268,7 @@
               "RelativeToolTip": "Board Games\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T06:21:07.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T06:21:07.206Z"
             }
           ]
         }
