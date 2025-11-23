@@ -82,9 +82,9 @@
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Board Games\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Controllers\\UsersController.cs*",
-              "RelativeToolTip": "Board Games\\Controllers\\UsersController.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAUwFUAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\Desktop\\Board Games\\Board Games\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Board Games\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T17:13:40.374Z",
               "EditorCaption": ""
@@ -135,8 +135,7 @@
               "RelativeToolTip": "Board Games\\Services\\User Service\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:08:36.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T07:08:36.895Z"
             },
             {
               "$type": "Document",
