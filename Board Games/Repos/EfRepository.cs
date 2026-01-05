@@ -34,6 +34,11 @@ namespace Board_Games.Repos
             return await _db.Set<T>().FindAsync(Id);
         }
 
+        public IQueryable<T> Query()
+        {
+            return _db.Set<T>().AsQueryable();
+        }
+
         public async Task<int> SaveChangesAsync()
         {
            return await _db.SaveChangesAsync();

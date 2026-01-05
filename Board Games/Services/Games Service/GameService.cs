@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using Board_Games.DTO_s.GamesDto;
-using Board_Games.DTO_s.UsersDto;
 using Board_Games.Entities;
 using Board_Games.Repos;
 using Microsoft.EntityFrameworkCore;

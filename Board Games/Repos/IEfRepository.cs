@@ -8,5 +8,6 @@
         void UpdateAsync(T entity);
         void DeleteAsync(T entity);
         Task<int> SaveChangesAsync();
+        IQueryable<T> Query();
     }
 }

@@ -1,8 +1,6 @@
 ﻿using AutoMapper;
 using Board_Games.DTO_s.GamesDto;
-using Board_Games.DTO_s.UsersDto;
 using Board_Games.Services.Games_Service;
-using Board_Games.Services.User_Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
